@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="64" viewBox="0 0 108 64">
+  <g id="logocompany" transform="translate(-56 -16)">
+    <text id="LOGO" transform="translate(110 53)" fill="#6e849b" font-size="40" font-family="Rubik-Regular, Rubik" letter-spacing="0.025em"><tspan x="-53.26" y="0">LOGO</tspan></text>
+    <text id="Company" transform="translate(110 75)" fill="#6e849b" font-size="20" font-family="Rubik-Bold, Rubik" font-weight="700" letter-spacing="0.025em"><tspan x="-51.36" y="0">COMPANY</tspan></text>
+  </g>
+</svg>

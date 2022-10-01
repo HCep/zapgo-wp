@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="linkedin" transform="translate(-1655 -46.368)">
+    <g id="Group_1859" data-name="Group 1859" transform="translate(1663.389 44.009)">
+      <g id="Group_88" data-name="Group 88" transform="translate(0 9.708)">
+        <rect id="Rectangle_921" data-name="Rectangle 921" width="4.043" height="12.141" transform="translate(0.233 5.844)" fill="#98b1bc"/>
+        <path id="Path_2582" data-name="Path 2582" d="M162.635,140.722a4.351,4.351,0,0,0-3.369-1.391,4.856,4.856,0,0,0-1.4.19,3.183,3.183,0,0,0-1.066.533,4.564,4.564,0,0,0-1.17,1.285v-1.726H151.6l.012.588q.012.588.012,3.626t-.025,7.926h4.031v-6.775a2.959,2.959,0,0,1,.135-.992,2.6,2.6,0,0,1,.778-1.047,1.984,1.984,0,0,1,1.293-.423,1.743,1.743,0,0,1,1.55.729,3.544,3.544,0,0,1,.5,2.015v6.493h4.031v-6.958A5.833,5.833,0,0,0,162.635,140.722Z" transform="translate(-145.092 -133.769)" fill="#98b1bc"/>
+        <path id="Path_2583" data-name="Path 2583" d="M2.279,9.708A2.306,2.306,0,0,0,.631,10.3,1.973,1.973,0,0,0,0,11.8,2.008,2.008,0,0,0,.613,13.3a2.211,2.211,0,0,0,1.617.6h.025a2.308,2.308,0,0,0,1.66-.6A1.939,1.939,0,0,0,4.533,11.8a2.043,2.043,0,0,0-.625-1.5A2.24,2.24,0,0,0,2.279,9.708Z" transform="translate(0 -9.708)" fill="#98b1bc"/>
+      </g>
+    </g>
+    <g id="linkedin-2" data-name="linkedin" transform="translate(1655 46.368)" fill="none" stroke="#98b1bc" stroke-width="1">
+      <rect width="34" height="34" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="33" height="33" rx="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>
